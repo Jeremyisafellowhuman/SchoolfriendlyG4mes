@@ -7,4 +7,7 @@ Math games, all day long!
 <h1>Prepare to play games</h1>
   <html>
   <body>
- <button type="submit">
+ 
+ <html>
+ <body>
+<button type="submit">
