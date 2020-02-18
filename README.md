@@ -8,13 +8,4 @@ Math games, all day long!
   <html>
   <body>
  
- <html>
-   <head>
-      <title>Title of the document</title>
-   </head>
-   <body>
-      <form>
-         <input type="button" onclick="window.location.href = 'https://www.w3docs.com';" value="w3docs"/>
-      </form>
-   </body>
-</html>
+ <button type="submit">
