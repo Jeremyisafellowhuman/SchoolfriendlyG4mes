@@ -10,5 +10,4 @@ Math games, all day long!
  
  <html>
  <body>
- <button class="favorite styled"
-        type="button">
+ <button>
