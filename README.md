@@ -10,6 +10,4 @@ Math games, all day long!
  
  <html>
  <body>
- <button>wow<button>
-<button type="button" onclick="alert('Hi user!')">Press me!</button>
-
+ 	<button>Click me!</button>
