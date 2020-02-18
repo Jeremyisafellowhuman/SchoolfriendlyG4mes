@@ -7,8 +7,6 @@ Math games, all day long!
 <h1>Prepare to play games</h1>
   <<html>
    <head>
-      <title>Title of the document</title>
-   </head>
    <body>
       <button onclick="window.location.href = 'https://www.echalk.co.uk/amusements/Games/Tetrominoes/tetrominoes.html';">Click Here</button>
    </body>
