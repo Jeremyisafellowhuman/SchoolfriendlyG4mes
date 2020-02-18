@@ -10,4 +10,4 @@ Math games, all day long!
  
  <html>
  <body>
- 	<button>Click me!</button>
+ 	<button type="button" autofocus>Hello World!</button>
