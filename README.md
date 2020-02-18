@@ -8,6 +8,6 @@ Math games, all day long!
   <<html>
    <head>
    <body>
-      <button onclick="window.location.href = 'https://www.echalk.co.uk/amusements/Games/Tetrominoes/tetrominoes.html';">Click Here</button>
+    <input type="button" onclick="window.location.href = 'https://www.echalk.co.uk/amusements/Games/Tetrominoes/tetrominoes.html';" value="w3docs"/>
    </body>
 </html>
