@@ -1,5 +1,5 @@
 # SchoolfriendlyG4mes
-Math games, all day long!
+Here comes the games.
 <!DOCTYPE html>
 <html>
 <body>
