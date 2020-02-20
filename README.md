@@ -17,7 +17,7 @@ Math games, all day long! WOW
  <a href="https://classroom.google.com/">google Classroom</a>
  <a href="https://www.gorgegames.net/basketball-legends/">Basketball</a>
   <a href="https://flashmath1.github.io/26.html">binding of Issac</a>
-  <a href="https://1v1.lol/">Fortnite</a>
+  <a href="https://1v1.lol/">1v1.lol</a>
   <a href="https://www.cliffsnotes.com/">cliffnotes</a>
   <a href="https://docs.google.com/document/u/0/?tgif=d">Docs</a>
   <a href="https://scratch.mit.edu/projects/105500895/">Geometry Dash</a>
