@@ -11,8 +11,4 @@ Math games, all day long! WOW
  <html>
  <body>
    
- <script>
-   $('li').click(function() {
-    $('<span>blah blah</span>').insertAfter(this);
-});
-</script>
+ <a href="https://www.w3schools.com/html/html_links.asp">CLick me</a>
