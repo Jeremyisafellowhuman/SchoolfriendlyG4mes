@@ -27,39 +27,3 @@ Math games, all day long! WOW
    <a href="https://s3.amazonaws.com/crazygames-unblocked/index.html">Crazy Games</a>
    <a href="https://coolgames4life.weebly.com/">coolgames4life</a>
    
-<!Doctype html>
-<html>
-<style>
-#container {
-  width: 400px;
-  height: 400px;
-  position: relative;
-  background: yellow;
-}
-#animate {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  background: red;
-}
-</style>
-<body>
-
-<h2>My First JavaScript Animation</h2>
-
-<div id="container">
-<div id="animate"></div>
-</div>
-
-</body>
-</html>
-
-
-
-  
-  
-
-   
- 
- 
-
