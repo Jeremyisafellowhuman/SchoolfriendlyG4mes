@@ -10,3 +10,8 @@ Math games, all day long! WOW
  
  <html>
  <body>
+   
+   <Javascript>
+  $('li').click(function() {
+    $('<span>blah blah</span>').insertAfter(this);
+});
