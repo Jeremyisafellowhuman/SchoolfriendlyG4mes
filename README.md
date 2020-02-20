@@ -22,6 +22,7 @@ Math games, all day long! WOW
   <a href="https://docs.google.com/document/u/0/?tgif=d">Docs</a>
   <a href="https://scratch.mit.edu/projects/105500895/">Geometry Dash</a>
   <a href="https://flashmath1.github.io/41.html">Awesome tanks 2</a>
+   <a href="https://kripken.github.io/misc-js-benchmarks/banana/game.html?low,low">Banana bread</a>
   
 
    
