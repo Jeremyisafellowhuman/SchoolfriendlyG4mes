@@ -25,6 +25,7 @@ Math games, all day long! WOW
    <a href="https://kripken.github.io/misc-js-benchmarks/banana/game.html?low,low">Banana bread</a>
   <a href="https://www.multiplication.com/games/play/stick-man">Stick man</a>
    <a href="https://s3.amazonaws.com/crazygames-unblocked/index.html">Crazy Games</a>
+   <a href="https://coolgames4life.weebly.com/">coolgames4life</a>
   
   
 
