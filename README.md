@@ -19,7 +19,7 @@ Math games, all day long! WOW
   <a href="https://flashmath1.github.io/26.html">binding of Issac</a>
   <a href="https://1v1.lol/">Fortnite</a>
   <a href="https://www.cliffsnotes.com/">cliffnotes</a>
-  
+  <a href="https://docs.google.com/document/u/0/?tgif=d">Docs</a>
  
  
 
