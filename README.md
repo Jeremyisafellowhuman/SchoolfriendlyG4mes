@@ -12,7 +12,7 @@ Math games, all day long! WOW
  <body>
    
  <script>
-  
-  $('li').click(function() {
+   $('li').click(function() {
     $('<span>blah blah</span>').insertAfter(this);
 });
+</script>
