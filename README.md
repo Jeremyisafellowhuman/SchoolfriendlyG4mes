@@ -1,5 +1,5 @@
 # SchoolfriendlyG4mes
-Math games, all day long!
+Math games, all day long! WOW
 <!DOCTYPE html>
 <html>
 <body>
@@ -10,4 +10,3 @@ Math games, all day long!
  
  <html>
  <body>
- <input type=button> 
