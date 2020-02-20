@@ -11,7 +11,8 @@ Math games, all day long! WOW
  <html>
  <body>
    
-   <Javascript>
+ <script>
+  
   $('li').click(function() {
     $('<span>blah blah</span>').insertAfter(this);
 });
