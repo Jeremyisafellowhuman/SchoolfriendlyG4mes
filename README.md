@@ -26,17 +26,14 @@ Math games, all day long! WOW
   <a href="https://www.multiplication.com/games/play/stick-man">Stick man</a>
    <a href="https://s3.amazonaws.com/crazygames-unblocked/index.html">Crazy Games</a>
    <a href="https://coolgames4life.weebly.com/">coolgames4life</a>
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   <html>
-  <body>
-    
     <a href="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png">Bob the builder</a>
    
+   
+   
+   
+   
+   
+   
+   
+   
+  
