@@ -25,16 +25,5 @@ Math games, all day long! WOW
     <a href="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png">Bob the builder</a>
     
     <html>
-<body>
 
-<h1>The iframe element</h1>
-
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials">
-</iframe>
-
-</body>
-</html>
- 
- <html>
- <body>
    
